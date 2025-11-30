@@ -57,5 +57,5 @@ For the social links, I am thinking of using a fake api using json-server to fet
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Social Links](https://roosterroo.github.io/social-links/)
 - Frontend Mentor - [@RoosterRoo](https://www.frontendmentor.io/profile/RoosterRoo)
